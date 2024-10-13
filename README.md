@@ -1,2 +1,2 @@
-# BulkOps-App-Pro
-BulkOps App Pro is a paid addon on Atlassian Marketplace
+# BulkOps Pro
+BulkOps Pro is a paid addon on Atlassian Marketplace
